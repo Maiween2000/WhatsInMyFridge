@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WhatsInMyFridge</string>
+    <string name="sort_by">Sort by :</string>
+    <string name="calories">Calories</string>
+    <string name="max">Max</string>
+    <string name="maximum">Maximum :</string>
+    <string name="kcal_100g">kcal/100g</string>
+
+    <string name="minimum">Minimum :</string>
+    <string name="min">Min</string>
+    <string name="difficult">Difficulté :</string>
+    <string name="valider">Valider</string>
+    <string name="add">Add</string>
+    <string name="next">Next</string>
+    <string name="ingredient">Ingredient</string>
+
+    <string name="difficile">Difficile</string>
+    <string name="moyen">Moyen</string>
+    <string name="minutes">minutes</string>
+
+    <string name="calories2">Calories :</string>
+    <string name="temps_de_pr_paration">Temps de préparation :</string>
+
+    <string name="facile">Facile</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="todo10">TODO</string>
+    <string name="todo11">TODO</string>
+    <string-array name="array_data">
+        <item> Select Data </item>
+        <item> Apport calorique </item>
+        <item> Temps de préparation </item>
+        <item> Niveau de difficulté </item>
+    </string-array>
+</resources>
